@@ -1,2 +1,2 @@
-#!/bin/bash/tmp/correction/7887977291428394626459273304759823255527_5/205/135260/0x00-shell_basics 
-pwd
+#!/bin/bash/ 
+ chmod u+x 0x00-shell_basics   #pwd

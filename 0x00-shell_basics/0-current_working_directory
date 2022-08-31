@@ -1,2 +1,2 @@
-#!/bin/bash/  wc -l
- chmod u+x 0x00-shell_basics   #pwd
+#!/bin/bash/  
+pwd ./0-current_working_directory

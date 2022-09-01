@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo-wrx-wrx+wrx hello
+chmod -v 007 hello
